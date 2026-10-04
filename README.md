@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Janne 👋
 
-<!--
-**JvA-create/JvA-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Physicist and project manager (PRINCE2 Agile).
+I'm learning in public how software, interfaces and AI tools work together in practice.
+Preferably on real projects from my own smart home.
 
-Here are some ideas to get you started:
+## Currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏠 **Hallway Panel:** Turning an old Lenovo Yoga Book into a Home Assistant wall display *(in progress)*
+
+## Topics
+
+Home Assistant · Matter · WLED · Git & GitHub · YAML · AI-assisted development
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/janne-van-aswegen)
